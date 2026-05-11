@@ -6,3 +6,7 @@
     add requirement.txt
     do "pip install -r requirements.txt"
 4. Do a "pip list" to ensure local packages installed.
+
+-------------------------------- logging, exception and notebook -----------------------------------
+5. Write the logger file and test it on demo.py file.
+6. Write the exception file and test it on demo.py file.
